@@ -17,3 +17,4 @@ gem "github-pages", "= 228"
 gem "kramdown-parser-gfm"
 # gem "just-the-docs"
 gem "jekyll-default-layout"
+gem 'faraday', '~> 2.7.12'
