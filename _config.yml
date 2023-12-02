@@ -19,10 +19,10 @@ favicon_ico: "/img/favicon.ico"
 # # Build settings
 # markdown: kramdown
 
-# # plugins:
-# #   - jekyll-feed
-# #   - jekyll-include-cache
-# #   - jekyll-seo-tag
+# plugins:
+  - jekyll-feed
+#   - jekyll-include-cache
+#   - jekyll-seo-tag
 
 
 # # Exclude from processing.
