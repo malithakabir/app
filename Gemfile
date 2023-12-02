@@ -16,3 +16,4 @@ gem "just-the-docs", "0.7.0" # pinned to the current release
 # gem "wdm", "~> 0.1.0"
 gem "kramdown-parser-gfm"
 # gem "just-the-docs"
+gem "jekyll-default-layout"

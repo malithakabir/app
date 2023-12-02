@@ -20,6 +20,7 @@ favicon_ico: "/img/favicon.ico"
 markdown: kramdown
 
 plugins:
+  - jekyll-default-layout
   # - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
