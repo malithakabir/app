@@ -10,7 +10,7 @@ url: https://malithakabir.github.io/app/
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-theme: just-the-docs
+remote_theme: just-the-docs
 # Features
 color_scheme: light
 search_enabled: false
