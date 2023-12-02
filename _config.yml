@@ -1,8 +1,38 @@
-title: Just the Docs Template
+title: ML Blog
 description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
+
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://malithakabir.github.io/app/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+theme: just-the-docs
+# Features
+color_scheme: light
+search_enabled: false
+favicon_ico: "/img/favicon.ico"
+
+# # Build settings
+# markdown: kramdown
+
+# # plugins:
+# #   - jekyll-feed
+# #   - jekyll-include-cache
+# #   - jekyll-seo-tag
+
+
+# # Exclude from processing.
+# # The following items will not be processed, by default. Create a custom list
+# # to override the default setting.
+# # exclude:
+# #   - Gemfile
+# #   - Gemfile.lock
+# #   - node_modules
+# #   - vendor/bundle/
+# #   - vendor/cache/
+# #   - vendor/gems/
+# #   - vendor/ruby/
