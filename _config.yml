@@ -16,8 +16,8 @@ color_scheme: light
 search_enabled: false
 favicon_ico: "/img/favicon.ico"
 
-# # Build settings
-# markdown: kramdown
+# Build settings
+markdown: kramdown
 
 plugins:
   # - jekyll-feed
