@@ -8,7 +8,7 @@ gem "just-the-docs", "0.7.0" # pinned to the current release
 # # gem "just-the-docs"        # always download the latest release
 
 # gem "jekyll-feed", "~> 0.6"
-# gem "github-pages", "= 228"
+gem "github-pages", "= 228"
 # gem "http_parser.rb", "~> 0.6.0"
 
 # gem "tzinfo", ">= 1", "< 3"
