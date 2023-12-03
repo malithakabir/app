@@ -59,7 +59,7 @@ plt.show()
 
 
     
-![image](/img/blog/np_sigmoid_4_0.png)
+![image](/app/img/blog/np_sigmoid_4_0.png)
     
 
 
