@@ -6,4 +6,4 @@ permalink: /
 ---
 # This is a blog on machine learning.
 
-## Please use the left navigation panel to explore.
+## Please use left navigation panel to explore.
