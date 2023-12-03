@@ -50,6 +50,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Insall Missing Gems
         run: bundle install
+      - name: Copy Assets
+        run: me=$(bundle info --path just-the-docs) cp $me/. . -r -p
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
